@@ -42,6 +42,7 @@ ul {
 }
 .sidebar > h3 {
     margin-bottom: 50px;
+    text-align: center;
 }
 .sidebar > h3::before {
     content: "";
